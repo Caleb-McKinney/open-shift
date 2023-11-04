@@ -1,0 +1,66 @@
+header {
+  background-color:  #d9b310;
+  margin-top: 0%;
+}
+
+form {
+  margin-top: 10%;
+}
+body {
+  background-color: rgb(90, 98, 117);
+  text-align: center;
+}
+h1 {
+  color:  #d9b310;
+  margin-bottom: 5%;
+}
+h2 {
+  color: white;
+  margin-bottom: 15%;
+}
+/* p {
+  margin-bottom: 10%;
+} */
+
+button {
+  background-color: gray;
+  color: white;
+}
+
+.header {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: auto;
+  margin-top: auto;
+  width: 75%;
+}
+.navbar {
+  display: flex;
+  align-items: center;
+}
+
+.hamburger-menu {
+  display: flex;
+  flex-direction: column;
+  cursor: pointer;
+}
+
+.bar {
+  width: 35px;
+  height: 5px;
+  background-color: rgb(91, 98, 117);
+  margin: 3px 0;
+}
+
+.box {
+  width: 400px;
+  height: 150px;
+  border: 5px solid black;
+  padding: 10px;
+  margin: 10px auto; /* Horizontal centering */
+}
+
+#approved {
+  background-color: #d9b310;
+}
