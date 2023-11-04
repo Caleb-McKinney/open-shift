@@ -23,7 +23,7 @@ h2 {
 } */
 
 button {
-  background-color: gray;
+  background-color: #d9b310;
   color: white;
 }
 
@@ -64,3 +64,18 @@ button {
 #approved {
   background-color: #d9b310;
 }
+
+
+.disclaimer {
+  background-color: #d9b310;
+  color: black;
+  width: 400px;
+  height: 200px;
+  border: 5px solid black;
+  padding: 10px;
+  margin: 10px auto; /* Horizontal centering */
+}
+
+/* .link {
+  color:#d9b310
+} */
